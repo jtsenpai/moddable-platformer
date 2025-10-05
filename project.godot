@@ -13,7 +13,7 @@ config_version=5
 config/name="Moddable Platformer"
 config/version="v1.5-5-g6037d5c"
 run/main_scene="res://main.tscn"
-config/features=PackedStringArray("4.4", "GL Compatibility")
+config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [autoload]
